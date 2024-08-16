@@ -1,4 +1,4 @@
-2. In Vehicle hierarchy, add methods like start and stop in Vehicle and override them in Child classes.
+2. In Vehicle hierarchy, add methods like start and stop in Vehicle and override them in Child classes..
 
 package MethodOverriding;
 public class train extends vehicle{
